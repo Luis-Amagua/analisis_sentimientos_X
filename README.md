@@ -1,5 +1,8 @@
 # Análisis de Sentimiento en Tweets
 ## Carga de Datos
+Se utiliza twikit para buscar y recolectar tweets relacionados con palabras clave predefinidas.
+Los datos recolectados incluyen texto del tweet, usuario, métricas de interacción (retweets, favoritos) y marcas temporales.
+
 ## Limpieza de Texto
 
 Se eliminan URLs, menciones y hashtags para evitar información irrelevante en el análisis.
