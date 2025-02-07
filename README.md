@@ -36,4 +36,4 @@ Este proceso permite analizar opiniones en Twitter de forma automatizada, mejora
 ![image](https://github.com/user-attachments/assets/714734d4-58f7-4e82-9cc5-a5a91faef6ac)
 
 
-El análisis muetsra que bajo la búsqueda se tiene un 50% de aceptación del presidente Daniel Nobia previo a als elecciones en Ecuador.
+El análisis muestra que bajo la búsqueda se tiene un 50% de aceptación del presidente Daniel Noboa previo a las elecciones en Ecuador.
