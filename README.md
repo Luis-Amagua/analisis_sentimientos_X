@@ -34,3 +34,6 @@ Se crea un gráfico de pastel para visualizar la distribución de sentimientos.
 Este proceso permite analizar opiniones en Twitter de forma automatizada, mejorando la comprensión de la percepción pública sobre un tema específico.
 
 ![image](https://github.com/user-attachments/assets/714734d4-58f7-4e82-9cc5-a5a91faef6ac)
+
+
+El análisis muetsra que bajo la búsqueda se tiene un 50% de aceptación del presidente Daniel Nobia previo a als elecciones en Ecuador.
