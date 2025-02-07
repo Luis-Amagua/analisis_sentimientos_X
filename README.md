@@ -16,10 +16,13 @@ Modelo: nlptown/bert-base-multilingual-uncased-sentiment.
 Pertenece a la familia BERT (Bidirectional Encoder Representations from Transformers), desarrollado por Google.
 Especializado en análisis de sentimiento multilingüe, lo que permite evaluar tweets en varios idiomas.
 Usa una clasificación de 1 a 5, que se agrupa en positivo, negativo o neutral.
-Aplicación del Modelo
 
 Se procesa cada tweet con el modelo y se obtiene su puntuación de sentimiento.
-Se asigna la categoría "positivo" (puntuaciones > 3), "negativo" (< 3) o "neutral" (= 3).
+Se asigna la categoría:
+- positivo (puntuaciones > 3)
+- negativo (< 3)
+- neutral (= 3)
+  
 Se limita el texto a 512 caracteres, la capacidad máxima del modelo.
 Exportación de Resultados
 Se guardan los tweets analizados en un nuevo archivo CSV para futuras consultas.
